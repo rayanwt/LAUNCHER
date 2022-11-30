@@ -791,14 +791,6 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 2,
-                            "actionsetting": {
-                                "useObject": 268,
-                                "useType": "UseOnYourself"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 18,
                             "actionsetting": {
                                 "chatText": "/town 8",
@@ -807,10 +799,10 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 19,
+                            "actionButton": 2,
                             "actionsetting": {
-                                "chatText": "/a 40",
-                                "sendAutomatically": true
+                                "useObject": 268,
+                                "useType": "UseOnYourself"
                             }
                         },
                         {
@@ -818,6 +810,14 @@
                             "actionButton": 3,
                             "actionsetting": {
                                 "chatText": "exura infir ico",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 19,
+                            "actionsetting": {
+                                "chatText": "/a 40",
                                 "sendAutomatically": true
                             }
                         },
