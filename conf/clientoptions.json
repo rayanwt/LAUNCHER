@@ -791,14 +791,6 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 18,
-                            "actionsetting": {
-                                "chatText": "/town 8",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 2,
                             "actionsetting": {
                                 "useObject": 268,
@@ -807,9 +799,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 3,
+                            "actionButton": 18,
                             "actionsetting": {
-                                "chatText": "exura infir ico",
+                                "chatText": "/town 8",
                                 "sendAutomatically": true
                             }
                         },
@@ -818,6 +810,14 @@
                             "actionButton": 19,
                             "actionsetting": {
                                 "chatText": "/a 40",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 3,
+                            "actionsetting": {
+                                "chatText": "exura infir ico",
                                 "sendAutomatically": true
                             }
                         },
@@ -1567,6 +1567,12 @@
                             "action": "ToggleSkillsWidget"
                         },
                         "keysequence": "Alt+S"
+                    },
+                    {
+                        "actionsetting": {
+                            "action": "ToggleSpellListWidget"
+                        },
+                        "keysequence": "Alt+L"
                     }
                 ]
             },

@@ -2649,3 +2649,5 @@
 [ 2022-11-30 04:16:57,155 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
 [ 2022-11-30 04:16:57,201 ] Disconnected from gameserver
 [ 2022-11-30 04:17:00,624 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-11-30 18:29:41,459 ] qrc:/qmlcomponents/TibiaIconButton.qml:24:17: QML Image: Cannot open: qrc:/images/console-buttonsay-up.png
+[ 2022-11-30 18:29:41,589 ] Asset loading complete
