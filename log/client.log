@@ -2736,3 +2736,27 @@
 [ 2022-12-01 03:57:24,463 ] Request connection to gameserver  "tcp://192.168.0.38:7172" "OTServBR-Global"
 [ 2022-12-01 03:57:24,473 ] Connected to gameserver  "tcp://192.168.0.38:7172" "OTServBR-Global"
 [ 2022-12-01 03:57:25,463 ] News query failed: "Unrecognized event news."
+[ 2022-12-01 04:00:42,752 ] qrc:/qmlcomponents/TibiaIconButton.qml:24:17: QML Image: Cannot open: qrc:/images/console-buttonsay-up.png
+[ 2022-12-01 04:00:42,880 ] Asset loading complete
+[ 2022-12-01 04:00:49,098 ] News query failed: "Unrecognized event news."
+[ 2022-12-01 04:00:50,228 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-01 04:00:50,229 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-12-01 04:00:50,229 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-12-01 04:00:50,275 ] Request connection to gameserver  "tcp://192.168.0.38:7172"  (unprotected:  "tcp://192.168.0.38:7172" )  requested (Charakter "Rayan" )
+[ 2022-12-01 04:00:50,278 ] Request connection to gameserver  "tcp://192.168.0.38:7172" "OTServBR-Global"
+[ 2022-12-01 04:00:50,288 ] Connected to gameserver  "tcp://192.168.0.38:7172" "OTServBR-Global"
+[ 2022-12-01 04:00:50,329 ] Connection to gameserver  "tcp://192.168.0.38:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 04:00:50,376 ] Disconnected from gameserver
+[ 2022-12-01 04:00:51,447 ] News query failed: "Unrecognized event news."
+[ 2022-12-01 04:00:52,923 ] Connection to gameserver  "tcp://192.168.0.38:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 04:00:52,967 ] Disconnected from gameserver
+[ 2022-12-01 04:00:53,233 ] News query failed: "Unrecognized event news."
+[ 2022-12-01 04:00:53,820 ] Request connection to gameserver  "tcp://192.168.0.38:7172"  (unprotected:  "tcp://192.168.0.38:7172" )  requested (Charakter "Rayan" )
+[ 2022-12-01 04:00:53,821 ] Request connection to gameserver  "tcp://192.168.0.38:7172" "OTServBR-Global"
+[ 2022-12-01 04:00:53,831 ] Connected to gameserver  "tcp://192.168.0.38:7172" "OTServBR-Global"
+[ 2022-12-01 04:00:54,790 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://191.179.133.37:8090/login.php") ) due to too many retries.
+[ 2022-12-01 04:00:58,032 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://191.179.133.37/login.php") ) due to too many retries.
+[ 2022-12-01 04:00:58,180 ] Request connection to gameserver  "tcp://192.168.0.38:7172"  (unprotected:  "tcp://192.168.0.38:7172" )  requested (Charakter "Rayan" )
+[ 2022-12-01 04:00:58,224 ] Request connection to gameserver  "tcp://192.168.0.38:7172" "OTServBR-Global"
+[ 2022-12-01 04:00:58,234 ] Connected to gameserver  "tcp://192.168.0.38:7172" "OTServBR-Global"
+[ 2022-12-01 04:00:59,154 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://191.179.133.37/login.php") ) due to too many retries.
